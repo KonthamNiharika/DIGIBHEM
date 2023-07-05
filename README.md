@@ -1,2 +1,2 @@
-# digitalbhem_python
-Digital Bhem internship project
+# DIGIBHEM
+Python programming
